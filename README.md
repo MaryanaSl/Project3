@@ -50,3 +50,26 @@
 5. Есть возможность изменить статус доставки и указать комментарий.
 6. Есть возможность прикрепить фото к доставке.
 7. При очередной синхронизации статусы, комментарии и фото поступают в центральную базу и есть возможность их посмотреть.
+
+![image](https://github.com/user-attachments/assets/42f00984-be83-42b1-a0d2-0e58f6014f20)
+
+![image](https://github.com/user-attachments/assets/2121d72c-d77d-49a7-aef2-b4d88d9b99f5)
+
+![image](https://github.com/user-attachments/assets/ea1180e1-db61-4ca0-ad09-28fe38e70e0e)
+
+
+![image](https://github.com/user-attachments/assets/1e52bcdf-0ac0-4125-91d6-6a12dee54513)
+
+![image](https://github.com/user-attachments/assets/b0683f77-4e6f-47eb-8d38-3b1fbc7cc88c)
+
+![image](https://github.com/user-attachments/assets/e0851545-3407-40ee-8cb4-69b5cbcb024c)
+
+![image](https://github.com/user-attachments/assets/c9b26fed-9626-42bc-93cd-47488f06b57e)
+
+![image](https://github.com/user-attachments/assets/32135f17-8653-48cc-a60d-a2751663d191)
+
+
+
+
+
+
