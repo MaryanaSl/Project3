@@ -8,8 +8,9 @@
 
 ## Ссылки на репозитории с конфиигурациями по проекту с примерами кода
 
-[Десктопная версия конфигурации](https://github.com/MaryanaSl/Project3_desk)
-[Мобильная версия конфигурации](https://github.com/MaryanaSl/Project3_mobile)
+* [Десктопная версия конфигурации](https://github.com/MaryanaSl/Project3_desk)
+
+* [Мобильная версия конфигурации](https://github.com/MaryanaSl/Project3_mobile)
 
 ### Описание задачи
 
